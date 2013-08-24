@@ -1,2 +1,0 @@
- * Fixed bug in authentication thanks to Dennis Keller
- * toString now works properly

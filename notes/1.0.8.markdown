@@ -1,3 +1,0 @@
- * Updated play to 2.0.3
- * Closes all current connections on onStop
- * Checks connections onStart and throws error if it can't connect to mongoDB
